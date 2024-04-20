@@ -67,8 +67,8 @@ The "Matrix Multiplication Performance Benchmark" project contributes to the und
 
 ## Submitted By:
 
-- **Name:** Divyam Malik  
-- **Roll Number:** 102103142  
-- **Course:** 3CO5
+- **Name:** Himanshu Mahlawat  
+- **Roll Number:** 102153030  
+- **Course:** 3CO13
 
 This README provides a detailed overview of the Matrix Multiplication Performance Benchmark project, outlining its functionality, methodology, findings, and conclusions.
